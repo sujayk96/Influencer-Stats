@@ -1,0 +1,7 @@
+=== Confluent Cloud API key: lsrc-mkp371 ===
+
+API key:
+GL2MLD4PFTK3OW3E
+
+API secret:
+oQEglgwuGqyI5Xt8sPO8kIMv+SaV14pH4jKn2593J7LKfBWKqIQSQrowzzzaWtJf
