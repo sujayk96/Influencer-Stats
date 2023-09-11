@@ -4,7 +4,7 @@ A robust system for monitoring and reporting changes in Influencer’s YouTube p
 
 Project Description:
 
-Users can get an update about changes in their favourite youtuber's statists (views, likes and comments) as a telegram notification. The project uses pyspark for data managent and producses data to a kafka service which inturn triggers an aleart when there is a significant spike in the playlist's stats through telegram bots.
+The project employs PySpark for data management and generates data for a Kafka service, which, in turn, triggers alerts via Telegram bots when there is a significant spike in the playlist's statistics, allowing users to receive updates about changes in their favorite YouTuber's statistics such as views, likes, and comments through Telegram notifications.
 
 Project Screen Shot(s)
 Example:
